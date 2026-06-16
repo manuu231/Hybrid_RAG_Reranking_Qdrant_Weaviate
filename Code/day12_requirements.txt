@@ -1,9 +1,0 @@
-langchain
-langchain-google-genai
-langchain-community
-faiss-cpu
-rank-bm25
-sentence-transformers
-qdrant-client
-weaviate-client
-numpy
